@@ -1,0 +1,11 @@
+D:\Ung Dung Desktop\2212407-HLong-Chuong1\2212407-HLong-Chuong1\bin\Debug\2212407-HLong-Chuong1.exe.config
+D:\Ung Dung Desktop\2212407-HLong-Chuong1\2212407-HLong-Chuong1\bin\Debug\2212407-HLong-Chuong1.exe
+D:\Ung Dung Desktop\2212407-HLong-Chuong1\2212407-HLong-Chuong1\bin\Debug\2212407-HLong-Chuong1.pdb
+D:\Ung Dung Desktop\2212407-HLong-Chuong1\2212407-HLong-Chuong1\obj\Debug\2212407-HLong-Chuong1-TabControl.csproj.AssemblyReference.cache
+D:\Ung Dung Desktop\2212407-HLong-Chuong1\2212407-HLong-Chuong1\obj\Debug\2212407-HLong-Chuong1-TabControl.csproj.SuggestedBindingRedirects.cache
+D:\Ung Dung Desktop\2212407-HLong-Chuong1\2212407-HLong-Chuong1\obj\Debug\_2212407_HLong_Chuong1.Form1.resources
+D:\Ung Dung Desktop\2212407-HLong-Chuong1\2212407-HLong-Chuong1\obj\Debug\_2212407_HLong_Chuong1.Properties.Resources.resources
+D:\Ung Dung Desktop\2212407-HLong-Chuong1\2212407-HLong-Chuong1\obj\Debug\2212407-HLong-Chuong1-TabControl.csproj.GenerateResource.cache
+D:\Ung Dung Desktop\2212407-HLong-Chuong1\2212407-HLong-Chuong1\obj\Debug\2212407-HLong-Chuong1-TabControl.csproj.CoreCompileInputs.cache
+D:\Ung Dung Desktop\2212407-HLong-Chuong1\2212407-HLong-Chuong1\obj\Debug\2212407-HLong-Chuong1.exe
+D:\Ung Dung Desktop\2212407-HLong-Chuong1\2212407-HLong-Chuong1\obj\Debug\2212407-HLong-Chuong1.pdb
