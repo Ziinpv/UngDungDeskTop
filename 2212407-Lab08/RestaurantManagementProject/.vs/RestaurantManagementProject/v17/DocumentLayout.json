@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Long\\UngDungDeskTop\\2212407-Lab08\\RestaurantManagementProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FB8A21-179F-4BB0-94C8-2D0250011B3D}|RestaurantManagementProject\\RestaurantManagementProject.csproj|d:\\long\\ungdungdesktop\\2212407-lab08\\restaurantmanagementproject\\restaurantmanagementproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6FB8A21-179F-4BB0-94C8-2D0250011B3D}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FB8A21-179F-4BB0-94C8-2D0250011B3D}|RestaurantManagementProject\\RestaurantManagementProject.csproj|d:\\long\\ungdungdesktop\\2212407-lab08\\restaurantmanagementproject\\restaurantmanagementproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6FB8A21-179F-4BB0-94C8-2D0250011B3D}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Long\\UngDungDeskTop\\2212407-Lab08\\RestaurantManagementProject\\RestaurantManagementProject\\Form1.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\Form1.cs",
+              "ToolTip": "D:\\Long\\UngDungDeskTop\\2212407-Lab08\\RestaurantManagementProject\\RestaurantManagementProject\\Form1.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\Form1.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAiwPEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:16:53.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Long\\UngDungDeskTop\\2212407-Lab08\\RestaurantManagementProject\\RestaurantManagementProject\\Form1.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\Form1.cs",
+              "ToolTip": "D:\\Long\\UngDungDeskTop\\2212407-Lab08\\RestaurantManagementProject\\RestaurantManagementProject\\Form1.cs [Design]",
+              "RelativeToolTip": "RestaurantManagementProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:53:16.47Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
